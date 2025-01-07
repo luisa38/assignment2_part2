@@ -1,7 +1,7 @@
 # Part 2 - Assignment 2 - Research Track 1
 
 ## Description
-This ROS2 package ccontrols the movement of a turtle in the Turtlesim simulator. The package performs the following tasks:
+Like in the first ROS exercise done, this ROS2 package ccontrols the movement of a turtle in the Turtlesim simulator. The package performs the following tasks:
 1. Removes the default turtle (`turtle1`).
 2. Spawns a new turtle named `rt1_turtle` at a defined starting position.
 3. Moves the turtle along the X-axis and performs smooth turns upon reaching limits.

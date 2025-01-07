@@ -12,10 +12,10 @@ This ROS2 package ccontrols the movement of a turtle in the Turtlesim simulator.
 - **setup.py**: Setup file for installing the ROS2 package.
 
 ## How to Use
-1. Compile the package:
+1. Compile the package in your ROS2 workspace:
    ```bash
    cd ~/ros/ros2_ws/
-   colcon build --packages-select turtle_basic_controller
+   colcon build
    source install/setup.bash
    ```
 2. Launch the Turtlesim simulator:
